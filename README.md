@@ -29,3 +29,12 @@ Numbers with decimal points. A floating point usually takes up twice the memory 
 
 546.89     0.0     0.89202    8.9285    -124.56
 
+Escape Sequences 
+\n Newline
+\a Alarm (computer's bell) 
+\b Backspace
+\t Tab
+\\ backslash
+\' Single quote mark
+\" Double quote mark
+
